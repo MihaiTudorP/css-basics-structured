@@ -1,23 +1,24 @@
-html {
-  font-family: 'Times New Roman', serif, sans-serif;
-}
-
 body {
   background-color: #444;
   text-align: center;
 }
 
-h1,
-h2,
-h3 {
+h1 {
   color: #ffffff;
-  line-height: 1rem;
-  font-style: italic;
+  line-height: 2rem;
+  font-family: 'Montserrat Alternates', serif, sans-serif;
 }
 
 h2 {
-  font-size: 30px;
-  font-style: normal;
+  color: #ffffff;
+  line-height: 2rem;
+  font-family: 'Oswald', serif, sans-serif;
+}
+
+h3 {
+  color: #ffffff;
+  line-height: 2rem;
+  font-family: 'Nunito', serif, sans-serif;
 }
 
 .borderImg {
