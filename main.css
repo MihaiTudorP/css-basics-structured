@@ -1,6 +1,5 @@
 body {
   background-color: #444;
-  text-align: center;
 }
 
 h1 {
@@ -23,6 +22,8 @@ h3 {
 
 .borderImg {
   border-radius: 10px;
+  width: 200px;
+  height: 200px;
   border: 2px solid #ddd;
   padding: 5px;
 }
@@ -32,8 +33,16 @@ img {
   height: auto;
   padding: 5px;
   opacity: 1;
-  display: block;
-  margin: auto;
+  margin-bottom: 60px;
+}
+
+button {
+  color: white;
+  background: red;
+  border-radius: 12px;
+  border: none;
+  font-size: 25px;
+  padding: 10px 20px 40px 60px;
 }
 
 ul li {
